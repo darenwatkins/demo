@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: junit
+sourceLanguage: groovy
+buildTool: gradle
+features: [annotation-api, app-name, azure-function, azure-function-http, gradle, groovy, groovy-application, jackson-databind, junit, logback, micronaut-build, readme, yaml]
